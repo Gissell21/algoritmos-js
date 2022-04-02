@@ -1,0 +1,40 @@
+body {
+    background: url(../img/fondo.jpg);
+    text-align: center;
+}
+
+h1 {
+    margin: 40px 20px;
+    color: white;
+    font-size: 50px;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+}
+
+button {
+    padding: 12px 40px;
+    margin: 30px 20px;
+    background: rgb(141, 16, 16);
+    color: white;
+    border: 3px dashed  white;
+}
+
+button:hover {
+    background: #ffffff;
+    color: #00000c;
+    cursor: pointer;
+}
+
+img {
+    width: 100%;
+    border-radius: 25px;
+
+
+}
+
+#btnsuma {
+    background: #530666;
+}
